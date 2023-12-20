@@ -1,0 +1,66 @@
+/* Resetting some default browser styles */
+body, ul {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Header styles */
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #1a047a;
+  }
+  
+  .logo h1 {
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(129, 125, 125)
+  }
+  
+  nav ul {
+    list-style: none;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #978b8b;
+  }
+  
+  /* Banner/Slider Section styles */
+  .banner {
+    /* Add styles for the banner section, background image or video, welcome message, and reservation button */
+  }
+  
+  /* Menu Section styles */
+  #menu {
+    /* Add styles for the menu section, layout, and item presentation */
+  }
+  
+  /* Reservation Section styles */
+  #reservation {
+    /* Add styles for the reservation section, form layout, and input fields */
+  }
+  
+  /* About Us Section styles */
+  #about {
+    /* Add styles for the about us section, text alignment, and content presentation */
+  }
+  
+  /* Contact Us Section styles */
+  #contact {
+    /* Add styles for the contact us section, contact information, and form */
+  }
+  
+  /* Footer styles */
+  footer {
+    /* Add styles for the footer section */
+  }
+  
